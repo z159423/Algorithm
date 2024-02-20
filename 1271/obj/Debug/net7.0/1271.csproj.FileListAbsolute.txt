@@ -1,0 +1,15 @@
+E:\Algorithm\1271\obj\Debug\net7.0\1271.csproj.AssemblyReference.cache
+E:\Algorithm\1271\obj\Debug\net7.0\1271.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\1271\obj\Debug\net7.0\1271.AssemblyInfoInputs.cache
+E:\Algorithm\1271\obj\Debug\net7.0\1271.AssemblyInfo.cs
+E:\Algorithm\1271\obj\Debug\net7.0\1271.csproj.CoreCompileInputs.cache
+E:\Algorithm\1271\bin\Debug\net7.0\1271.exe
+E:\Algorithm\1271\bin\Debug\net7.0\1271.deps.json
+E:\Algorithm\1271\bin\Debug\net7.0\1271.runtimeconfig.json
+E:\Algorithm\1271\bin\Debug\net7.0\1271.dll
+E:\Algorithm\1271\bin\Debug\net7.0\1271.pdb
+E:\Algorithm\1271\obj\Debug\net7.0\1271.dll
+E:\Algorithm\1271\obj\Debug\net7.0\refint\1271.dll
+E:\Algorithm\1271\obj\Debug\net7.0\1271.pdb
+E:\Algorithm\1271\obj\Debug\net7.0\1271.genruntimeconfig.cache
+E:\Algorithm\1271\obj\Debug\net7.0\ref\1271.dll
