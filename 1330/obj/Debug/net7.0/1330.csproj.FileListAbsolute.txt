@@ -1,0 +1,15 @@
+E:\Algorithm\1330\bin\Debug\net7.0\1330.exe
+E:\Algorithm\1330\bin\Debug\net7.0\1330.deps.json
+E:\Algorithm\1330\bin\Debug\net7.0\1330.runtimeconfig.json
+E:\Algorithm\1330\bin\Debug\net7.0\1330.dll
+E:\Algorithm\1330\bin\Debug\net7.0\1330.pdb
+E:\Algorithm\1330\obj\Debug\net7.0\1330.csproj.AssemblyReference.cache
+E:\Algorithm\1330\obj\Debug\net7.0\1330.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\1330\obj\Debug\net7.0\1330.AssemblyInfoInputs.cache
+E:\Algorithm\1330\obj\Debug\net7.0\1330.AssemblyInfo.cs
+E:\Algorithm\1330\obj\Debug\net7.0\1330.csproj.CoreCompileInputs.cache
+E:\Algorithm\1330\obj\Debug\net7.0\1330.dll
+E:\Algorithm\1330\obj\Debug\net7.0\refint\1330.dll
+E:\Algorithm\1330\obj\Debug\net7.0\1330.pdb
+E:\Algorithm\1330\obj\Debug\net7.0\1330.genruntimeconfig.cache
+E:\Algorithm\1330\obj\Debug\net7.0\ref\1330.dll
