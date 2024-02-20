@@ -1,0 +1,15 @@
+E:\Algorithm\1000_A+B\bin\Debug\net7.0\1000_A+B.exe
+E:\Algorithm\1000_A+B\bin\Debug\net7.0\1000_A+B.deps.json
+E:\Algorithm\1000_A+B\bin\Debug\net7.0\1000_A+B.runtimeconfig.json
+E:\Algorithm\1000_A+B\bin\Debug\net7.0\1000_A+B.dll
+E:\Algorithm\1000_A+B\bin\Debug\net7.0\1000_A+B.pdb
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.csproj.AssemblyReference.cache
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.AssemblyInfoInputs.cache
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.AssemblyInfo.cs
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.csproj.CoreCompileInputs.cache
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.dll
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\refint\1000_A+B.dll
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.pdb
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\1000_A+B.genruntimeconfig.cache
+E:\Algorithm\1000_A+B\obj\Debug\net7.0\ref\1000_A+B.dll
