@@ -1,0 +1,15 @@
+E:\Algorithm\2338\bin\Debug\net7.0\2338.exe
+E:\Algorithm\2338\bin\Debug\net7.0\2338.deps.json
+E:\Algorithm\2338\bin\Debug\net7.0\2338.runtimeconfig.json
+E:\Algorithm\2338\bin\Debug\net7.0\2338.dll
+E:\Algorithm\2338\bin\Debug\net7.0\2338.pdb
+E:\Algorithm\2338\obj\Debug\net7.0\2338.csproj.AssemblyReference.cache
+E:\Algorithm\2338\obj\Debug\net7.0\2338.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\2338\obj\Debug\net7.0\2338.AssemblyInfoInputs.cache
+E:\Algorithm\2338\obj\Debug\net7.0\2338.AssemblyInfo.cs
+E:\Algorithm\2338\obj\Debug\net7.0\2338.csproj.CoreCompileInputs.cache
+E:\Algorithm\2338\obj\Debug\net7.0\2338.dll
+E:\Algorithm\2338\obj\Debug\net7.0\refint\2338.dll
+E:\Algorithm\2338\obj\Debug\net7.0\2338.pdb
+E:\Algorithm\2338\obj\Debug\net7.0\2338.genruntimeconfig.cache
+E:\Algorithm\2338\obj\Debug\net7.0\ref\2338.dll
