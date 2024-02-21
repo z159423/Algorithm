@@ -1,0 +1,15 @@
+E:\Algorithm\1316_S5\bin\Debug\net7.0\1316.exe
+E:\Algorithm\1316_S5\bin\Debug\net7.0\1316.deps.json
+E:\Algorithm\1316_S5\bin\Debug\net7.0\1316.runtimeconfig.json
+E:\Algorithm\1316_S5\bin\Debug\net7.0\1316.dll
+E:\Algorithm\1316_S5\bin\Debug\net7.0\1316.pdb
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.csproj.AssemblyReference.cache
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.AssemblyInfoInputs.cache
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.AssemblyInfo.cs
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.csproj.CoreCompileInputs.cache
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.dll
+E:\Algorithm\1316_S5\obj\Debug\net7.0\refint\1316.dll
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.pdb
+E:\Algorithm\1316_S5\obj\Debug\net7.0\1316.genruntimeconfig.cache
+E:\Algorithm\1316_S5\obj\Debug\net7.0\ref\1316.dll
