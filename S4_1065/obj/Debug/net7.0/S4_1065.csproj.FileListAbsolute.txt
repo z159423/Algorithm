@@ -1,0 +1,15 @@
+E:\Algorithm\S4_1065\bin\Debug\net7.0\S4_1065.exe
+E:\Algorithm\S4_1065\bin\Debug\net7.0\S4_1065.deps.json
+E:\Algorithm\S4_1065\bin\Debug\net7.0\S4_1065.runtimeconfig.json
+E:\Algorithm\S4_1065\bin\Debug\net7.0\S4_1065.dll
+E:\Algorithm\S4_1065\bin\Debug\net7.0\S4_1065.pdb
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.csproj.AssemblyReference.cache
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.AssemblyInfoInputs.cache
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.AssemblyInfo.cs
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.csproj.CoreCompileInputs.cache
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.dll
+E:\Algorithm\S4_1065\obj\Debug\net7.0\refint\S4_1065.dll
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.pdb
+E:\Algorithm\S4_1065\obj\Debug\net7.0\S4_1065.genruntimeconfig.cache
+E:\Algorithm\S4_1065\obj\Debug\net7.0\ref\S4_1065.dll

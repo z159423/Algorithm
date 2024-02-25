@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Algorithm\\S5_1316\\1316.csproj",
-      "projectName": "1316",
-      "projectPath": "E:\\Algorithm\\S5_1316\\1316.csproj",
+      "projectUniqueName": "E:\\Algorithm\\S4_1065\\S4_1065.csproj",
+      "projectName": "S4_1065",
+      "projectPath": "E:\\Algorithm\\S4_1065\\S4_1065.csproj",
       "packagesPath": "C:\\Users\\tmdgh\\.nuget\\packages\\",
-      "outputPath": "E:\\Algorithm\\S5_1316\\obj\\",
+      "outputPath": "E:\\Algorithm\\S4_1065\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tmdgh\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+E:\Algorithm\S4_1018\bin\Debug\net7.0\S4_1018.exe
+E:\Algorithm\S4_1018\bin\Debug\net7.0\S4_1018.deps.json
+E:\Algorithm\S4_1018\bin\Debug\net7.0\S4_1018.runtimeconfig.json
+E:\Algorithm\S4_1018\bin\Debug\net7.0\S4_1018.dll
+E:\Algorithm\S4_1018\bin\Debug\net7.0\S4_1018.pdb
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.csproj.AssemblyReference.cache
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.AssemblyInfoInputs.cache
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.AssemblyInfo.cs
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.csproj.CoreCompileInputs.cache
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.dll
+E:\Algorithm\S4_1018\obj\Debug\net7.0\refint\S4_1018.dll
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.pdb
+E:\Algorithm\S4_1018\obj\Debug\net7.0\S4_1018.genruntimeconfig.cache
+E:\Algorithm\S4_1018\obj\Debug\net7.0\ref\S4_1018.dll
